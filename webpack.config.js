@@ -18,7 +18,7 @@ module.exports = {
     //plugin for copying hmtl file into dist and auto inject script tag
     plugins: [
         new HtmlWebpackPlugin({
-            filename: 'finalIndex.html',
+            filename: 'index.html',
             template: './src/index.html'
         })
     ]
