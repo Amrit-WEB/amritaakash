@@ -1,0 +1,22 @@
+{
+  "name": "amritaakash",
+  "version": "2.0.0",
+  "description": "AmritAakash is modified version of its previous real -time weathe app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "author": "Amritanshu",
+  "license": "ISC"
+}
