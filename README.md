@@ -2,7 +2,7 @@
 
 <p><strong>AmritAakash</strong> is a weather application built using the MVC (Model-View-Controller) architecture. The app provides real-time weather information for any city worldwide by integrating with the OpenWeather API. The project is bundled and optimized using Webpack.</p>
 <h2>Live link</h2>
-<p>https://amrit-web.github.io/weatherV2/dist/</p>
+<p>https://amrit-web.github.io/amritaakash/dist/</p>
 <h2>Features</h2>
 <ul>
   <li><strong>Real-Time Weather Data:</strong> Get current weather conditions, including temperature, humidity, wind speed, and more.</li>
